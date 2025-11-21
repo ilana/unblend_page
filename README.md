@@ -1,3 +1,4 @@
+
 # unblend_page
 
 Landing page for **Unblend**, an AI-powered chatbot that helps people practice Internal Family Systems (IFS)–style unblending in everyday life.
@@ -7,8 +8,6 @@ This repo hosts the static page used for sharing and linking to the main Unblend
 ## Live Site
 
 👉 Visit the app: [https://unblend.me](https://unblend.me)
-
-*(This link creates a backlink from this GitHub project to the main Unblend domain.)*
 
 ## What Is Unblend?
 
